@@ -20,25 +20,25 @@ You'll need a nested list, wrapped in a container (see the demo's source for a m
 
 ```
 <div id="browse-list">
-    <ul>
-      <li>List item 1
-        <ul>
-          <li>List item 1.1
-            <ul>
-              <li>List item 1.1.1</li>
-              <li>List item 1.1.2</li>
-              <li>List item 1.1.3</li>
-              <li>List item 1.1.4</li>
-              <li>List item 1.1.5</li>
-            </ul>
-          </li>
-        </ul>
-      </li>
-      <li>List item 2</li>
-      <li>List item 3</li>
-      <li>List item 4</li>
-    </ul>
-  </div>
+  <ul>
+    <li>List item 1
+      <ul>
+        <li>List item 1.1
+          <ul>
+            <li>List item 1.1.1</li>
+            <li>List item 1.1.2</li>
+            <li>List item 1.1.3</li>
+            <li>List item 1.1.4</li>
+            <li>List item 1.1.5</li>
+          </ul>
+        </li>
+      </ul>
+    </li>
+    <li>List item 2</li>
+    <li>List item 3</li>
+    <li>List item 4</li>
+  </ul>
+</div>
 ```
 
 And then use the plugin like so:
