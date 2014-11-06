@@ -44,3 +44,9 @@ And then use the plugin like so:
 ```
 $('#browse-list').browseList();
 ```
+
+Thanks to
+---------
+
+- The jQuery team
+- Daniel Eden, author of <a href="http://daneden.github.io/animate.css/">Animate.css</a>, which this plugin uses.
