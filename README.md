@@ -36,7 +36,7 @@ You'll need a nested list, wrapped in a container (see the demo's source for a m
       </li>
       <li>List item 2</li>
       <li>List item 3</li>
-      <li>List item 3</li>
+      <li>List item 4</li>
     </ul>
   </div>
 ```
