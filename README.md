@@ -1,7 +1,9 @@
 jQuery Browselist
 =================
 
-jQuery plugin that transforms a nested list into a horizontal browsable list. You can see a <a href="http://brunodbo.github.com/jquery.browselist/demo.html">demo here</a>, and an implementation of the plugin (albeit a slight variation) <a href="http://learningregistry.org/">right here</a> (at the bottom of that page).
+jQuery plugin that transforms a nested list into a horizontal browsable list. The plugin's CSS adds minimal styling (which you can override as you wish), and uses <a href="http://daneden.github.io/animate.css/">Animate.css</a> to handle CSS animations.
+
+You can see a <a href="http://brunodbo.github.com/jquery.browselist/demo.html">demo here</a>, and an implementation of the plugin (albeit a slight variation) <a href="http://learningregistry.org/">right here</a> (at the bottom of that page).
 
 Usage
 -----
@@ -49,4 +51,4 @@ Thanks to
 ---------
 
 - <a href="https://jquery.org">The jQuery team</a>
-- Daniel Eden, author of <a href="http://daneden.github.io/animate.css/">Animate.css</a>, which this plugin uses.
+- Daniel Eden, author of <a href="http://daneden.github.io/animate.css/">Animate.css</a>.
