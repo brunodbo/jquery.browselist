@@ -48,5 +48,5 @@ $('#browse-list').browseList();
 Thanks to
 ---------
 
-- The jQuery team
+- <a href="https://jquery.org">The jQuery team</a>
 - Daniel Eden, author of <a href="http://daneden.github.io/animate.css/">Animate.css</a>, which this plugin uses.
